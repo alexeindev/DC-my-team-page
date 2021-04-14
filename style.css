@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 71px 12px 0 12px;
+}
+
+.title {
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: -0.045em;
+}
+
+.subtitle {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  text-transform: uppercase;
+}
+
+.description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.team-member {
+  display: flex;
+}
+
+.team-member__picture {
+  padding-top: 0px;
+}
+
+.team-member__picture img {
+  width: 138.72px;
+  height: 209px;
+}
+.team-member__name {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.team-member__job {
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 13px;
+  padding-left: 2px;
+  text-transform: uppercase;
+  writing-mode: vertical-rl;
+}
+
+footer,
+a {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #a9a9a9;
+}
