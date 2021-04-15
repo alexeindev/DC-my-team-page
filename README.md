@@ -39,12 +39,11 @@
 
 ![screenshot](thumbnail.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - Where can I see your demo?
   The site demo it's [here](https://dc-my-team-page.vercel.app/)
 
 - What was your experience?
+   This challenge was very helpful to practice grid, also I could figure out how the pseudo-class nth -child worked
 
 ### Built With
 
